@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/jnylam/cs189a/project1"
+	"github.com/minhtrangvy/DistributedSystems_Project1/project1"
 )
 
 const defaultPort = 9999
